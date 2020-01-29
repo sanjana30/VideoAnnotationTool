@@ -1,0 +1,16 @@
+.avatar{
+	height: 180px;
+	-webkit-filter: drop-shadow(4px 4px 2px rgba(0,0,0,0.4));
+  filter: drop-shadow(4px 4px 2px rgba(0,0,0,0.4));
+}
+.longhorns{
+	height: 60px;
+	-webkit-filter: opacity(.1);
+	filter: opacity(.1);
+}
+.social-icon-wrapper{
+	color: rgb(191, 87, 0);
+}
+.social-icon-wrapper a{
+	color: rgb(191, 87, 0);
+}

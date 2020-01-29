@@ -1,0 +1,24 @@
+{
+    "name": "chi-lin",
+    "version": "1.0.0",
+    "description": "Portfolio",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "next",
+      "build": "next build",
+      "start": "next start"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@zeit/next-css": "^1.0.1",
+      "bootstrap": "^4.3.1",
+      "next": "^8.0.3",
+      "react": "^16.8.4",
+      "react-annotation-tool": "^1.0.45",
+      "react-dom": "^16.8.4",
+      "react-icons": "^3.5.0",
+      "reactstrap": "^7.1.0"
+    }
+  }
